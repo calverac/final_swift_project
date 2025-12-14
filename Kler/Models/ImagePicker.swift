@@ -2,7 +2,7 @@
 //  ImagePicker.swift
 //  Kler
 //
-//  Created by Catalina on 12/7/25.
+//  Created by Catalina on 11/22/25.
 //
 
 import Foundation

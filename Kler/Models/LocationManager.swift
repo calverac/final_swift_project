@@ -2,7 +2,7 @@
 //  LocationManager.swift
 //  Kler
 //
-//  Created by Catalina on 12/8/25.
+//  Created by Catalina on 11/20/25.
 //
 
 import Foundation

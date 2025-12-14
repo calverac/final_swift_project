@@ -2,7 +2,7 @@
 //  AuthView.swift
 //  Kler
 //
-//  Created by Catalina on 12/6/25.
+//  Created by Catalina on 12/1/25.
 //
 
 import SwiftUI
@@ -46,12 +46,18 @@ struct AuthView: View {
             .padding(.horizontal)
 
             Button(isLoginMode ? "Sign In" : "Create Account") {
-                if isLoginMode {
-                    authVM.signIn()
-                } else {
-                    authVM.signUp()
+                Task {
+                    if isLoginMode {
+                        await authVM.signIn()
+                    } else {
+                        await authVM.signUp()
+                    }
                 }
             }
+            .buttonStyle(.borderedProminent)
+            .tint(.teal)
+            .padding(.horizontal)
+
             .buttonStyle(.borderedProminent)
             .tint(.teal)
             .padding(.horizontal)

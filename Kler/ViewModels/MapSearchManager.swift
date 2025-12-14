@@ -2,7 +2,7 @@
 //  MapSearchManager.swift
 //  Kler
 //
-//  Created by Catalina on 12/9/25.
+//  Created by Catalina on 11/20/25.
 //
 
 import Foundation

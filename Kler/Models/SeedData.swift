@@ -2,7 +2,7 @@
 //  SeedData.swift
 //  Kler
 //
-//  Created by Catalina on 12/8/25.
+//  Created by Catalina on 11/24/25.
 //
 
 import Foundation
@@ -30,7 +30,7 @@ struct SeedData {
             ClothingItem(
                 name: "Summer Dress",
                 category: "Dresses",
-                color: "Yellow",
+                color: "Red",
                 notes: "",
                 imageName: "mock_dress"
             ),
@@ -38,7 +38,7 @@ struct SeedData {
             ClothingItem(
                 name: "Heels",
                 category: "Shoes",
-                color: "Beige",
+                color: "Red",
                 notes: "",
                 imageName: "mock_heels"
             ),
@@ -46,7 +46,7 @@ struct SeedData {
             ClothingItem(
                 name: "Hoodie",
                 category: "Sweaters",
-                color: "Gray",
+                color: "Green",
                 notes: "",
                 imageName: "mock_hoodie"
             ),
@@ -54,7 +54,7 @@ struct SeedData {
             ClothingItem(
                 name: "Jacket",
                 category: "Coats",
-                color: "Brown",
+                color: "Black",
                 notes: "",
                 imageName: "mock_jacket"
             ),
