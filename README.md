@@ -14,9 +14,8 @@ What the App Does (so far)
 
 Current Challenges / TODOs
 
-- Cleaning up Firebase configuration
+- Introducing Firebase storage
 - Adding analytics (wear count, cost-per-wear, donation suggestions)
 - Supporting cloud sync
-- Adding a proper onboarding flow
 - Improving the UI for categories and photo handling
 
