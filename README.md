@@ -6,8 +6,8 @@ I’m still actively developing the app, adding features, fixing bugs, and figur
 What the App Does (so far)
 
 - Add clothing items with a name, color, notes, last-worn date, and a photo from your library
-- Organize items into categories** (like Tops, Shoes, Coats, etc.) with clean album-style navigation
-- Track usage** using a “Last Worn” date and future analytics views
+- Organize items into categories (like Tops, Shoes, Coats, etc.) with clean album-style navigation
+- Track usage using a “Last Worn” date and future analytics views
 - Store items locally using SwiftData with Firebase integration
 - Works on real devices
 
